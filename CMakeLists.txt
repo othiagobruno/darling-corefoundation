@@ -103,6 +103,8 @@ set(cf_c_sources
 	CFURLConstants.c
 	CFUserNotification.c
 	CFUtilities.c
+	CFFileSecurity.c
+	CFStringHyphenation.c
 	CFUUID.c
 	CFVersion.c
 	CFXMLInputStream.c
